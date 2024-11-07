@@ -26,9 +26,9 @@ Design Concepts and Principles: SOLID, TDD, AGILE, DRY, GRASP, Domain Driven Des
 
 # Medpro Systems
 
-# Optimizely (formerly )
+# Optimizely (formerly Episerver)
 
-## Application Support Engineer 
+## Application Support Engineer
 
 # Mass General Brigham Hospital (formerly partners healthcare)
 
