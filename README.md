@@ -1,8 +1,8 @@
 ## Roger John Zeller
 ## Full Stack Software Engineer
 
-rogerjohnmorellizeller@gmail.com
-linkedin.com/in/rzeller
+rogerjohnmorellizeller@gmail.com \
+linkedin.com/in/rzeller \
 github.com/Dante4109
 
 ## Technical Skills
