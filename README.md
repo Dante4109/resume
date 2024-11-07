@@ -8,11 +8,10 @@ github.com/Dante4109
 ## Technical Skills
 
 **Languages:** C#, Python, Java, C++, PHP, VB, PowerShell, Bash, JavaScript, HTML, CSS, AutoIT, JSON, XML \
-**Frameworks:** .NET Framework, .NET Core, .NET 8, ASP.NET, Blazor, MVC5, Vue, React, Angular, Django, Flask, Jinja, Entity Framework, \
+**Frameworks:** .NET Framework, .NET Core, .NET 8, ASP.NET, Blazor, MVC5, Vue, React, Angular, Django, Flask, Jinja, Entity Framework, SQL Alchemy \
 **Databases:** PostgreSQL, MSSQL, SQL Server, MySQL, OracleSQL, MongoDB, Snowflake \
-**Developer Tools:** Git, Docker, Jenkins, GitHub Actions, Azure DevOps, Sentry \
-**Cloud**: Amazon Web Services, Azure \
-**Libraries:** PyTest, Pandas, NumPy, Matplotlib, PyAutoGUI, LibXML, Behave, LINQ, Selenium, Scrapy \
+**Dev Ops:** Git, GNU Make, Docker, Jenkins, GitHub Actions, Amazon Web Services (AWS), Azure DevOps, Sentry, IIS, Nginix, Heroku \
+**Libraries:** PyTest, Pandas, NumPy, Matplotlib, PyAutoGUI, LibXML, Behave, Loguru, LINQ, Selenium, Scrapy \
 **Design Concepts and Principles:** SOLID, TDD, AGILE, DRY, GRASP, Domain Driven Design, Clean Architecture. \
 **System Design:** Monolithic, Serverless, Microservices, Cloud
 
@@ -20,7 +19,7 @@ github.com/Dante4109
 
 ## Senior Software Engineer
 
-### Robert Half International 
+### Robert Half International
 _Dec 2022 - Present_
 
 -	Led a team to develop an updated version of the student restitution application which reduced student harm calculation time down from hours to 5-15 minutes per population depending on each job’s requirements. 
@@ -70,9 +69,8 @@ _July 2021 - Oct 2022_
 
 
 # Optimizely (formerly Episerver)
-
 ## Application Support Engineer
-_July 2021 - Oct 2022_
+_July 2019 - Oct 2021_
 
 
 -	Provided direct support for worldwide clients utilizing company developed software. 
@@ -87,17 +85,9 @@ _July 2021 - Oct 2022_
 -	Contributed to team documentation and added feedback to optimize workflow. 
 -	Developed tools and scripts to automate mundane tasks for daily use for multiple team members. 
 
-
 # Mass General Brigham Hospital (formerly partners healthcare)
-
 # System Administrator / Tools Engineer 
-_July 2021 - Oct 2022_
-
-Partners HealthCare 	Contract
-System Administrator / Tools Engineer
- (Project-based) 
-	Sep 2018 - Oct 2019
-Somerville, MA
+_Sep 2018 - Oct 2019_
 
 -	Developed custom command line tools and programs utilized by the Office365/Exchange Administration team.
 -	Created automated solutions for recurring tasks and frequent problems, such as mass multi-user fixes/actions, reporting, error handling, and logging.
@@ -111,8 +101,6 @@ Somerville, MA
 
 
 # Projects
-
-
 
 LARP-Hive	Free Lance
 Co-Software Engineer	2020 – 2022
