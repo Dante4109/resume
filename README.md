@@ -25,9 +25,9 @@ _Dec 2022 - Present_
 -	Led a team to develop an updated version of the student restitution application which reduced student harm calculation time down from hours to 5-15 minutes per population depending on each job’s requirements. 
 
 -	Developed a user-friendly application that reduced QC analyst report completion time from several days manually to an hour by utilizing a mix of multi-threaded processes using browser automation and file scanning. Time reduction over 90%. 
--	Developed a clean offline standalone web application that allowed analysts to upload and compare proprietary financial files. This was done as part of a testing effort to prepare for merging discover student loan data with Nelnet. Analysts used the tool to identify discrepancies without needing to open the file in excel and manually look for them. 
+-	Developed a clean offline standalone web application that allowed analysts to upload and compare proprietary financial files. This was done as part of a testing effort to prepare for merging discover student loan data with a client's database. Analysts used the tool to identify discrepancies without needing to open the file in excel and manually look for them. 
 -	Created and hosted a dynamic documentation website utilized by both the development team and other org members using Sphinx, GitHub, and GNU Make.  
--	Analyzed, Researched, and fulfilled project requirements based on client needs and goals. 
+-	Analyzed, researched, and fulfilled project requirements based on client needs and goals. 
 -	Converted and refactored legacy code to meet current industry standards. 
 -	Improvised and overcame limitations imposed by an unconventional tech stack. 
 -	Developed a modular and dynamic end to end testing suite complete with full logging and a coverage report.  
@@ -43,7 +43,8 @@ _Dec 2022 - Present_
 -	Reported project status utilizing Jira, GitHub, PowerPoint, and other third-party applications.
 -	Managed multiple internal GitHub repositories and python packages. 
 -	Worked with quality control (QC) and business technology (BT) to provide software-based solutions to heavy financial data related processes. 
-cChampioned best practices for application hosting and architecture options when transitioning desktop applications to web based hosting. 
+- Championed best practices for application hosting and architecture options when transitioning desktop applications to web based hosting. 
+
 
 
 

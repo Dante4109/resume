@@ -1,26 +1,26 @@
-Reduce object oriented programming languages to just programming languages
+[X] Reduce object oriented programming languages to just programming languages
 
-Reduce Scripting 
+[X] Reduce Scripting 
 
-Omit Django rest framework. Just list Django Rest Framework
+[X] Omit Django rest framework. Just list Django Rest Framework
 
-Just list Azure, AWS. No need to elaborate
+[X] Just list Azure, AWS. No need to elaborate
 
-Remove IDE section
+[X] Remove IDE section
 
-Put extra spaces between bullet points. 
+[X] Put extra spaces between bullet points. 
 
 Robert Half:
 
-Remove mention of Nelnet
+[X] Remove mention of Nelnet
 
-Remove capital R on Reasearched under discover
+[X] Remove capital R on Reasearched under discover
 
-Talk about the actual issues that happened 
+[] Talk about the actual issues that happened 
 
-Rewrite Developed and Dynamic to just say automation.
+[] Rewrite Developed and Dynamic to just say automation.
 
-Improved developer experience using Python, Bash, and PowerShell
+[] Improved developer experience using Python, Bash, and PowerShell
 
 Merge with Build software solutions
 
